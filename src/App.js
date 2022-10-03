@@ -1,9 +1,9 @@
-
+import ContextExample from "./Examples/ContextExample";
 
 function App() {
   return (
     <div >
-      <h1>hello</h1>
+      <ContextExample/>
     </div>
   );
 }
