@@ -1,9 +1,10 @@
-import ContextExample from "./Examples/ContextExample";
+// import ContextExample1 from "./Examples/ContextExample1";
 
 function App() {
   return (
     <div >
-      <ContextExample/>
+      <h1>Hello</h1>
+      {/* <ContextExample1/> */}
     </div>
   );
 }
